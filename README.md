@@ -42,7 +42,7 @@ I prefer building complete, maintainable products over isolated demos — from a
 ## SchemaWeave Ecosystem
 
 <a href="https://github.com/erenkoyuncu/SchemaWeave">
-  <img src="https://raw.githubusercontent.com/erenkoyuncu/SchemaWeave/main/branding/schemaweave-hero.jpg" alt="SchemaWeave" width="100%">
+  <img src="https://github.com/erenkoyuncu/SchemaWeave/blob/main/branding/schemaweave-hero.jpg?raw=true" alt="SchemaWeave" width="100%">
 </a>
 
 ### [SchemaWeave](https://github.com/erenkoyuncu/SchemaWeave)
