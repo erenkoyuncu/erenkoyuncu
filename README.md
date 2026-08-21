@@ -66,7 +66,7 @@ Framework-agnostic PHP 7.4+ core behind SchemaWeave, built around replaceable da
 ## OfficeGuard
 
 <a href="https://github.com/erenkoyuncu/OfficeGuard">
-  <img src="https://raw.githubusercontent.com/erenkoyuncu/OfficeGuard/main/assets/branding/officeguard-banner.jpg" alt="OfficeGuard" width="100%">
+  <img src="assets/officeguardbanner.png" alt="OfficeGuard" width="100%">
 </a>
 
 ### [OfficeGuard](https://github.com/erenkoyuncu/OfficeGuard)
